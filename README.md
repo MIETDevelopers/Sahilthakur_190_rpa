@@ -1,8 +1,7 @@
 # Rpa_sahilthakur_190
 
 
-![picture](https://github.com/MIETDevelopers/RPA_Lab_112_Kavya_Dhar/blob/main/BrandEvo_loop.gif)
-
+![picture](https://github.com/MIETDevelopers/Sahilthakur_190_rpa)
 
 
 
