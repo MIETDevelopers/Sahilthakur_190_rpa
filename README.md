@@ -1,7 +1,7 @@
 # Rpa_sahilthakur_190
 
 
-![picture](https://github.com/MIETDevelopers/Sahilthakur_190_rpa)
+
 
 
 
